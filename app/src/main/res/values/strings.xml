@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Filemanager</string>
+    <string name="save">Done</string>
+    <string name="name">Please Enter The Desired Folder Name : </string>
+    <string name="apps">Folders Name ......</string>
+    <string name="images">images</string>
+    <string name="menu1">menu1</string>
+    <string name="delete">Delete</string>
+    <string name="rename">Rename</string>
+    <string name="copy">Copy</string>
+    <string name="move">Move</string>
+    <string name="details">Details</string>
+    <string name="todo">TODO</string>
+
+</resources>
